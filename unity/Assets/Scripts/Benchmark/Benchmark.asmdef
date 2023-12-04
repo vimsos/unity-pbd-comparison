@@ -1,0 +1,19 @@
+{
+    "name": "Benchmark",
+    "rootNamespace": "Benchmark",
+    "references": [
+        "Conventional",
+        "Jobs",
+        "Common",
+        "ParallelJobs"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
